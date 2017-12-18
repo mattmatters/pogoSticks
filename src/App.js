@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.png';
+import logo from './pogo.png';
 import pogoImg from './fun.jpg';
 import './App.css';
 
